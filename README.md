@@ -1,0 +1,1 @@
+An example of cpp code that creates a blueprint node that acts like a cpp assert. Made with Unreal Engine 5.21
